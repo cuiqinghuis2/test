@@ -1,5 +1,5 @@
 {
 
-"test":"https://www.baidu.com"
+"test":"www"
 
 }
